@@ -3,7 +3,9 @@
 ## 介绍
 
 This guide describes a set of HTTP+JSON API design practices, originally
-extracted from work on the [Heroku Platform API](https://devcenter.heroku.com/articles/platform-api-reference).
+extracted from work on the [Heroku Platform API](https://devcenter.heroku.com/articles/platform-api-reference)
+
+本指南讲述一系列HTTP+JSON API设计实践，这些实践最初是从 [Heroku Platform API](https://devcenter.heroku.com/articles/platform-api-reference)中提取而来.
 
 This guide informs additions to that API and also guides new internal
 APIs at Heroku. We hope it’s also of interest to API designers
