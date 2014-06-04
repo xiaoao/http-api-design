@@ -11,6 +11,8 @@ This guide informs additions to that API and also guides new internal
 APIs at Heroku. We hope it’s also of interest to API designers
 outside of Heroku.
 
+本指南讲解新增的API以及Heroku的一些内部API，我们希望它在Heroku公司外在API设计上依然乐意充满趣味。
+
 Our goals here are consistency and focusing on business logic while
 avoiding design bikeshedding. We’re looking for _a good, consistent,
 well-documented way_ to design APIs, not necessarily _the only/ideal
